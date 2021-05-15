@@ -1,0 +1,32 @@
+{
+  "name": "book-library",
+  "version": "1.0.0",
+  "description": "Entry for The Odin Project's Book Library Exercise Under the Full JS Course",
+  "main": "sripts/index.js",
+  "scripts": {
+    "build:css": "postcss css/tailwind.css -o static/dist/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatrixienicolieopetina/book-library.git"
+  },
+  "keywords": [
+    "pat-lib",
+    "js",
+    "TOP"
+  ],
+  "author": "Patricia Nicole Opetina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatrixienicolieopetina/book-library/issues"
+  },
+  "homepage": "https://github.com/fatrixienicolieopetina/book-library#readme",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^3.1.3",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.2",
+    "firebase": "^8.5.0",
+    "tailwindcss": "^2.1.2",
+    "watch": "^1.0.2"
+  }
+}
