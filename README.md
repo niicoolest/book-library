@@ -1,6 +1,6 @@
 <h1>Library Project 📖</h1>
 <h4>Entry for The Odin Project's library exercise under the full javascript path</h4>
-<h5>Live preview can be found <a href="https://fatrixienicolieopetina.github.io/book-library/">here</a></h5>
+<h5>Live preview can be found <a href="https://niicoolest.github.io/book-library/">here</a></h5>
 
 <p>One can add a book in the library with its title, author, a brief review of the book and a pseudo-name of who added the book. </p> 
 
